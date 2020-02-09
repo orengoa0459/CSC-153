@@ -1,0 +1,6 @@
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\source\repos\TextAdventure1_OrengoAnthony\ConsoleUI\obj\Debug\ConsoleUI.pdb
