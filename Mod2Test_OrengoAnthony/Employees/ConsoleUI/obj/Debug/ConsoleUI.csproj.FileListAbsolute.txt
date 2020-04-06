@@ -1,0 +1,6 @@
+C:\Users\orengoa0459\source\repos\Employees\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\orengoa0459\source\repos\Employees\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\orengoa0459\source\repos\Employees\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\orengoa0459\source\repos\Employees\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\orengoa0459\source\repos\Employees\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\orengoa0459\source\repos\Employees\ConsoleUI\obj\Debug\ConsoleUI.pdb
