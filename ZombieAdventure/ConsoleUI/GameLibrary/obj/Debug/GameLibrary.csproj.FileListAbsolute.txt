@@ -1,0 +1,15 @@
+C:\Users\Anthony\source\repos\ZombieAdventure\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Anthony\source\repos\ZombieAdventure\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Anthony\source\repos\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Anthony\source\repos\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\TextAdventure3\ZombieAdventure\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\TextAdventure3\ZombieAdventure\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\TextAdventure3\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure3\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\TextAdventure3\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\TextAdventure3_OrengoAnthony\ZombieAdventure\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\TextAdventure3_OrengoAnthony\ZombieAdventure\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\TextAdventure3_OrengoAnthony\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure3_OrengoAnthony\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\TextAdventure3_OrengoAnthony\ZombieAdventure\GameLibrary\obj\Debug\GameLibrary.pdb
