@@ -1,0 +1,9 @@
+C:\Users\Anthony\source\repos\TextAdventure2\PlayerMovementOptions\bin\Debug\PlayerMovementOptions.dll
+C:\Users\Anthony\source\repos\TextAdventure2\PlayerMovementOptions\bin\Debug\PlayerMovementOptions.pdb
+C:\Users\Anthony\source\repos\TextAdventure2\PlayerMovementOptions\obj\Debug\PlayerMovementOptions.dll
+C:\Users\Anthony\source\repos\TextAdventure2\PlayerMovementOptions\obj\Debug\PlayerMovementOptions.pdb
+C:\Users\Anthony\Desktop\TextAdventure2\PlayerMovementOptions\bin\Debug\PlayerMovementOptions.dll
+C:\Users\Anthony\Desktop\TextAdventure2\PlayerMovementOptions\bin\Debug\PlayerMovementOptions.pdb
+C:\Users\Anthony\Desktop\TextAdventure2\PlayerMovementOptions\obj\Debug\PlayerMovementOptions.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\TextAdventure2\PlayerMovementOptions\obj\Debug\PlayerMovementOptions.dll
+C:\Users\Anthony\Desktop\TextAdventure2\PlayerMovementOptions\obj\Debug\PlayerMovementOptions.pdb
