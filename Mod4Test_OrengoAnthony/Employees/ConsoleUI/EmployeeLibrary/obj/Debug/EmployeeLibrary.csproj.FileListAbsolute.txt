@@ -1,0 +1,4 @@
+C:\Users\Anthony\source\repos\Employees\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\Anthony\source\repos\Employees\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\Anthony\source\repos\Employees\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\Anthony\source\repos\Employees\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
