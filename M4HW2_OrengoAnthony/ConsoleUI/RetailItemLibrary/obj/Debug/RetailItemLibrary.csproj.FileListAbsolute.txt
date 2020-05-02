@@ -1,0 +1,5 @@
+C:\Users\Anthony\Desktop\RetailItemClass\RetailItemLibrary\bin\Debug\RetailItemLibrary.dll
+C:\Users\Anthony\Desktop\RetailItemClass\RetailItemLibrary\bin\Debug\RetailItemLibrary.pdb
+C:\Users\Anthony\Desktop\RetailItemClass\RetailItemLibrary\obj\Debug\RetailItemLibrary.dll
+C:\Users\Anthony\Desktop\RetailItemClass\RetailItemLibrary\obj\Debug\RetailItemLibrary.pdb
+C:\Users\Anthony\Desktop\RetailItemClass\RetailItemLibrary\obj\Debug\RetailItemLibrary.csprojAssemblyReference.cache

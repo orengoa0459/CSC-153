@@ -1,0 +1,10 @@
+C:\Users\Anthony\source\repos\RetailItemClass\ItemLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\Anthony\source\repos\RetailItemClass\ItemLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\Anthony\source\repos\RetailItemClass\ItemLibrary\obj\Debug\ItemLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\RetailItemClass\ItemLibrary\obj\Debug\ItemLibrary.dll
+C:\Users\Anthony\source\repos\RetailItemClass\ItemLibrary\obj\Debug\ItemLibrary.pdb
+C:\Users\Anthony\Desktop\RetailItemClass\ItemLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\Anthony\Desktop\RetailItemClass\ItemLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\Anthony\Desktop\RetailItemClass\ItemLibrary\obj\Debug\ItemLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\RetailItemClass\ItemLibrary\obj\Debug\ItemLibrary.dll
+C:\Users\Anthony\Desktop\RetailItemClass\ItemLibrary\obj\Debug\ItemLibrary.pdb
