@@ -1,0 +1,5 @@
+C:\Users\Anthony\source\repos\PreferredCustomerClass\PersonLibrary\bin\Debug\PersonLibrary.dll
+C:\Users\Anthony\source\repos\PreferredCustomerClass\PersonLibrary\bin\Debug\PersonLibrary.pdb
+C:\Users\Anthony\source\repos\PreferredCustomerClass\PersonLibrary\obj\Debug\PersonLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\PreferredCustomerClass\PersonLibrary\obj\Debug\PersonLibrary.dll
+C:\Users\Anthony\source\repos\PreferredCustomerClass\PersonLibrary\obj\Debug\PersonLibrary.pdb
